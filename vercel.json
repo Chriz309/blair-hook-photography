@@ -1,0 +1,25 @@
+{
+  "redirects": [
+    {
+      "source": "/pricing",
+      "destination": "/sessions",
+      "permanent": true
+    },
+    {
+      "source": "/pricing.html",
+      "destination": "/sessions",
+      "permanent": true
+    },
+    {
+      "source": "/book",
+      "destination": "/enquire",
+      "permanent": true
+    },
+    {
+      "source": "/book.html",
+      "destination": "/enquire",
+      "permanent": true
+    }
+  ],
+  "cleanUrls": true
+}
