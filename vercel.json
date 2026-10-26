@@ -19,6 +19,16 @@
       "source": "/book.html",
       "destination": "/enquire",
       "permanent": true
+    },
+    {
+      "source": "/graduations",
+      "destination": "/sessions#graduations",
+      "permanent": true
+    },
+    {
+      "source": "/graduations.html",
+      "destination": "/sessions#graduations",
+      "permanent": true
     }
   ],
   "cleanUrls": true
