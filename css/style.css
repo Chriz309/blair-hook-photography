@@ -474,3 +474,4 @@ p { color: var(--muted); }
 .on-dark .site-header:not(.solid) .wm .ap-lines { stroke: #3a3a3a; }
 .footer .wm { font-size: 38px; }
 @media (max-width: 620px) { .wm { font-size: 25px; } }
+.svc.full { grid-column: span 12; min-height: 460px; }
